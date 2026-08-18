@@ -44,15 +44,7 @@ Toi : bye
 Bot : À bientôt ! 👋
 ```
 
-## 📈 Prochaines étapes
-
-- [ ] Ajouter la détection de mots-clés (au lieu d'une correspondance exacte)
-- [ ] Ajouter plus d'intentions
-- [ ] Passer à un chatbot basé sur des embeddings sémantiques (Project 2)
 
 ## 👤 Auteur
 
-Projet réalisé dans le cadre du programme **DecodeLabs Industrial Training Kit 2026**.
-
----
-⭐ N'hésite pas à laisser une étoile si ce projet t'a plu !
+Projet réalisé par HADJIJ Chourouk  dans le cadre du programme **DecodeLabs Industrial Training Kit 2026**.
